@@ -1,6 +1,8 @@
 #!/usr/bin/env php
 <?php
 /**
+ * 
+ * 15-02-2016
  * Yii Application Initialization Tool
  *
  * In order to run in non-interactive mode:
